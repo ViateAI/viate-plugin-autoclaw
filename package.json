@@ -1,6 +1,6 @@
 {
   "name": "@viateai/plugin-autoclaw",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Viate provider that spends an AutoClaw account's points through the cloud sandbox.",
   "license": "MIT",
   "private": false,
